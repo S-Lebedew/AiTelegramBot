@@ -64,3 +64,9 @@ python TG_Bot.py
 - `/quit` - Disable AI chat mode.
 
 ### Note: This project demonstrates asynchronous programming, API integration, and task scheduling in Python.
+
+### Preview
+<div align="center">
+  <img src="Preview/scr_1.jpg" width="45%" alt="Part 1" />
+  <img src="Preview/scr_2.jpg" width="45%" alt="Part 2" />
+</div>
