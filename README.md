@@ -67,6 +67,6 @@ python TG_Bot.py
 
 ### Preview
 <div align="center">
-  <img src="./Preview/scr_1.jpg" width="45%" alt="Part 1" />
-  <img src="./Preview/scr_2.jpg" width="45%" alt="Part 2" />
+  <img src="./Preview/Scr_1.jpg" width="45%" alt="Part 1" />
+  <img src="./Preview/Scr_2.jpg" width="45%" alt="Part 2" />
 </div>
