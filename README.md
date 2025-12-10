@@ -9,7 +9,7 @@ An asynchronous Telegram bot that integrates Google Gemini AI for natural conver
 * **Smart Formatting:** Auto-correction of Markdown parsing errors for stability.
 * **Secure:** Credentials managed via environment variables.
 
-## 🛠 Technology Stack
+## Technology Stack
 * Python 3.10+
 * Aiogram 3 (Async Bot API)
 * Google Generative AI SDK
@@ -17,13 +17,14 @@ An asynchronous Telegram bot that integrates Google Gemini AI for natural conver
 * APScheduler
 * Python-dotenv
 
-## ⚙️ Installation & Setup
+## Installation & Setup
 
 To run this bot on your own machine, follow these steps:
+( Works only with installed [Python](https://www.python.org/downloads/) )
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/dIMONSTERIb/AiTelegramBot.git
+git clone https://github.com/S-Lebedew/AiTelegramBot.git
 
 cd AiTelegramBot
 ```
